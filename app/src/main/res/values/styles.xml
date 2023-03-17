@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="btn">
+        <item name="android:textSize">20sp</item>
+        <item name="android:textColor">@color/teal_200</item>
+        <item name="android:backgroundTint">#ff0000</item>
+        <item name="android:padding">40dp</item>
+    </style>
+    <style name="txt">
+        <item name="android:textColor">@color/tan</item>
+        <item name="android:textSize">34sp</item>
+    </style>
+</resources>

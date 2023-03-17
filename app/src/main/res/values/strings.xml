@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="button">2.Ekran</string>
+    <string name="textview">Merhaba Dünyalı</string>
+</resources>
